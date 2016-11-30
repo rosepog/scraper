@@ -1,0 +1,16 @@
+models
+utils
+get_version
+forms
+app_settings
+views
+tasks
+actions
+__version__
+tests
+urls
+templatetags
+admin
+__version_info__
+exporters
+migrations

@@ -1,0 +1,8 @@
+PY2
+sqlparse
+argparse
+_error
+SQLParseError
+create_parser
+main
+sys

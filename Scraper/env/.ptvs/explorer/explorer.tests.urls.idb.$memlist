@@ -1,0 +1,5 @@
+include
+staticfiles_urlpatterns
+urlpatterns
+admin
+url

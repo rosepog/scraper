@@ -1,0 +1,20 @@
+﻿{% extends "app/layout.html" %}
+{% block content %}
+<html>
+<head>
+       
+</head>
+<body>
+<br /><br>
+    <section id="loginForm">
+            <form action="" method="post" class="form-horizontal">
+                {% csrf_token %}
+                <h4>Scrape Success</h4> <br/>
+                        <input type="submit" value="Download CSV" class="btn btn-primary" />
+                   
+                </div>
+            </form>
+     </section>
+    </body>
+</html>
+{% endblock %}

@@ -1,0 +1,8 @@
+PY2
+u
+text_type
+PY3
+unicode_compatible
+StringIO
+string_types
+sys

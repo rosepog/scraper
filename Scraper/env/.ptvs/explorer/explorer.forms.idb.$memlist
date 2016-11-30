@@ -1,0 +1,11 @@
+MSG_FAILED_BLACKLIST
+Field
+CheckboxInput
+ValidationError
+BooleanField
+ModelForm
+SqlField
+DatabaseError
+_
+QueryForm
+Query
